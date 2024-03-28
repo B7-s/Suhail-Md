@@ -84,7 +84,7 @@ module.exports = {
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
